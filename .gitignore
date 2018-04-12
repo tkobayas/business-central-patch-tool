@@ -9,5 +9,9 @@ tmp.log
 .metadata
 .recommenders/
 bin/
-work/
+diff-work/BRMS640/business-central.war/
+diff-work/target/business-central.war/
+diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/
+apply-work/target/business-central.war
+apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/
 

@@ -1,0 +1,79 @@
+Files diff-work/target/business-central.war/META-INF/MANIFEST.MF and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/META-INF/MANIFEST.MF differ
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 0061613D1959A08EFD1883479E445A2D.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 02E09437F341438442FC087838416FA6.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: 240F8A2285B4451B39516C8C4D66941C.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 3464F142874C10CFD4E17375505DBAA9.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: 348540F113D3ACECF56924FAFBFA739F.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 4DFE7F1BE0E21F2819D270E41F3C8D32.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: 513BA300A3386ED9AB83F3FDC82739F3.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 52177B1DD735452AADF70C15B14526ED.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 5951B24632EE60C17A9D57C901DE92D3.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 5F2268D9F02148EF2E8BA661DE05BB37.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: 6076C393EB3470C43284F3A907CF8A40.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: 630821AA896FE943383041CCCDE95885.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 88398F0347499DA5CD4D3557D08ED146.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: 89B648C93ED6D98DC989F874EC581806.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 99CACD013F127019D9D6FC6D84E61CEC.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: 9BFC12D32083821AE6B7482C0A3C79D7.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: 9EA82FE22B7D7DAB9EF5FBBC6A682817.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: 9F97FC4AF3193EBD181C10A140EF0022.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: A08976417F354D800F27E4667240741D.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: B170E0ECF81E42E378E6CAB39A588E36.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: BA20D4B5A34FFFB2D8CF4EC0659C4DBA.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: CBB4147DD582138B8B2AF452D2FEBB6A.cache.js
+Files diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/compilation-mappings.txt and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/compilation-mappings.txt differ
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: DACEE69190B91371C9B9417495D3AE01.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: DDCF6B049FCC1491CE6442847488B239.cache.js
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 0061613D1959A08EFD1883479E445A2D
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 02E09437F341438442FC087838416FA6
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 240F8A2285B4451B39516C8C4D66941C
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 3464F142874C10CFD4E17375505DBAA9
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 348540F113D3ACECF56924FAFBFA739F
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 4DFE7F1BE0E21F2819D270E41F3C8D32
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 513BA300A3386ED9AB83F3FDC82739F3
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 52177B1DD735452AADF70C15B14526ED
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 5951B24632EE60C17A9D57C901DE92D3
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 5F2268D9F02148EF2E8BA661DE05BB37
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 6076C393EB3470C43284F3A907CF8A40
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 630821AA896FE943383041CCCDE95885
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 88398F0347499DA5CD4D3557D08ED146
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 89B648C93ED6D98DC989F874EC581806
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 99CACD013F127019D9D6FC6D84E61CEC
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 9BFC12D32083821AE6B7482C0A3C79D7
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 9EA82FE22B7D7DAB9EF5FBBC6A682817
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: 9F97FC4AF3193EBD181C10A140EF0022
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: A08976417F354D800F27E4667240741D
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: B170E0ECF81E42E378E6CAB39A588E36
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: BA20D4B5A34FFFB2D8CF4EC0659C4DBA
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: CBB4147DD582138B8B2AF452D2FEBB6A
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: DACEE69190B91371C9B9417495D3AE01
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: DDCF6B049FCC1491CE6442847488B239
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: E250630B3ABAED9E0F86C772CF27CEC5
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: EE987BE9999F653C6FEA0B0757ABD613
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: F6D8847565E921A7688142A05F7BB553
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/deferredjs: FFFAB06433CA756CF9138AA830F52320
+Only in diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp: E250630B3ABAED9E0F86C772CF27CEC5.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: EE987BE9999F653C6FEA0B0757ABD613.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: F6D8847565E921A7688142A05F7BB553.cache.js
+Only in diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp: FFFAB06433CA756CF9138AA830F52320.cache.js
+Files diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWebapp/org.kie.workbench.drools.KIEDroolsWebapp.nocache.js and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/org.kie.workbench.drools.KIEDroolsWebapp/org.kie.workbench.drools.KIEDroolsWebapp.nocache.js differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$M3jkkSA.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$M3jkkSA.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$McwvvqB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$McwvvqB.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MCYn1BB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MCYn1BB.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MFBJupB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MFBJupB.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MGEGaL$.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MGEGaL$.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MGSl27_.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MGSl27_.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MHYBOYB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MHYBOYB.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MJRmzfB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MJRmzfB.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MKPf1gB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MKPf1gB.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MnFFKKB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MnFFKKB.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MNOrXz$.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MNOrXz$.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MRNXnr_.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MRNXnr_.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$Ms_eZy_.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$Ms_eZy_.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MTwkUZ$.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MTwkUZ$.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MUHNloA.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MUHNloA.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$Mvc$wFB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$Mvc$wFB.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MXpZ$uB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MXpZ$uB.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MZ7viIA.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MZ7viIA.class differ
+Files diff-work/target/business-central.war/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MzuSgQB.class and diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/classes/org/jboss/errai/ServerMarshallingFactoryImpl$MzuSgQB.class differ
