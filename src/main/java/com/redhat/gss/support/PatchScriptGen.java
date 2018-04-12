@@ -101,13 +101,15 @@ public class PatchScriptGen {
             sb.append("\n");
         }
 
-        // Add other one-off patch jar files
+        // HERE: Add other one-off patch jar files
+        //----------------------------
         sb.append("\n");
         sb.append("rm " + APPLY_TARGET + "WEB-INF/lib/kie-wb-common-services-backend-6.5.0.Final-redhat-16.jar");
         sb.append("\n");
         sb.append("cp " + APPLY_PATCH + "WEB-INF/lib/kie-wb-common-services-backend-6.5.0.Final-redhat-16.jar "
                         + APPLY_TARGET + "WEB-INF/lib/kie-wb-common-services-backend-6.5.0.Final-redhat-16-02029113-testpatch01.jar");
         sb.append("\n");
+        //-----------------------------
 
         //System.out.println(sb.toString());
 

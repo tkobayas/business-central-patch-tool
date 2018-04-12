@@ -91,10 +91,4 @@ Only in apply-work/target/business-central.war/WEB-INF/lib: kie-wb-common-servic
 Only in apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/lib: kie-wb-common-services-backend-6.5.0.Final-redhat-16.jar
 ~~~
 
-8. How to distribute?
-
-You will need just:
-
-- bc-patch-apply.sh
-- apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/
-
+Well done!
