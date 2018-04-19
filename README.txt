@@ -78,7 +78,7 @@ apply-work/target/business-central.war/
 apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/
 ~~~
 
-# Only apply-work/target/business-central.war/ will be mofified with the next step
+# Only apply-work/target/business-central.war/ will be modified with the next step
 
 7. Run bc-patch-apply.sh
 

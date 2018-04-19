@@ -16,10 +16,10 @@ public class PatchScriptGen {
     private static final String SCRIPT_FILE = "bc-patch-apply.sh";
 
     private static final String DIFF_TARGET = "diff-work/target/business-central.war/";
-    private static final String DIFF_PATCH = "diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/";
+    private static final String DIFF_PATCH = "diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-RHBRMS-3095-eap6_4-redhat/";
 
     private static final String APPLY_TARGET = "apply-work/target/business-central.war/";
-    private static final String APPLY_PATCH = "apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/";
+    private static final String APPLY_PATCH = "apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-RHBRMS-3095-eap6_4-redhat/";
 
     private List<String> removeList = new ArrayList<String>();
     private List<String> copyList = new ArrayList<String>();
@@ -103,12 +103,12 @@ public class PatchScriptGen {
 
         // HERE: Add other one-off patch jar files
         //----------------------------
-        sb.append("\n");
-        sb.append("rm " + APPLY_TARGET + "WEB-INF/lib/kie-wb-common-services-backend-6.5.0.Final-redhat-16.jar");
-        sb.append("\n");
-        sb.append("cp " + APPLY_PATCH + "WEB-INF/lib/kie-wb-common-services-backend-6.5.0.Final-redhat-16.jar "
-                        + APPLY_TARGET + "WEB-INF/lib/kie-wb-common-services-backend-6.5.0.Final-redhat-16-02029113-testpatch01.jar");
-        sb.append("\n");
+//        sb.append("\n");
+//        sb.append("rm " + APPLY_TARGET + "WEB-INF/lib/kie-wb-common-services-backend-6.5.0.Final-redhat-16.jar");
+//        sb.append("\n");
+//        sb.append("cp " + APPLY_PATCH + "WEB-INF/lib/kie-wb-common-services-backend-6.5.0.Final-redhat-16.jar "
+//                        + APPLY_TARGET + "WEB-INF/lib/kie-wb-common-services-backend-6.5.0.Final-redhat-16-02029113-testpatch01.jar");
+//        sb.append("\n");
         //-----------------------------
 
         //System.out.println(sb.toString());
