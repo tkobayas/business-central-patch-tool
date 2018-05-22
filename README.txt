@@ -8,7 +8,7 @@ for example, it  would be like this:
 
 ~~~
 diff-work/target/business-central.war/
-diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/
+diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-RHBRMS-3095-eap6_4-redhat/
 ~~~
 
 # These directories will be read-only
@@ -17,7 +17,7 @@ diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/
 
 Note, we'd like to focus on changes other than jar files, so ignore "jar differ" at the moment.
 
-$ diff -qr diff-work/target/business-central.war/ diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/ | grep -v "jar differ" > diff.txt
+$ diff -qr diff-work/target/business-central.war/ diff-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-RHBRMS-3095-eap6_4-redhat/ | grep -v "jar differ" > diff.txt
 
 You can classify the output into 4 types:
 
@@ -58,12 +58,13 @@ Files diff-work/target/business-central.war/org.kie.workbench.drools.KIEDroolsWe
  -> Take a closer look. In my case,
    -> Don't copy MANIFEST.MF
    -> Copy compilation-mappings.txt over from patch war
+   -> If you included other one-off patch (e.g. backend service jar), it will show up here. Basically it's good to remove old jar and copy new jar.
 
 4. Generate patch script
 
 PatchScriptGen.java will generate a script file to copy/remove files following step 3.
 
-If you have patches other than GWT client (e.g. backend service jar), edit PatchScriptGen.java after the comment "// HERE: Add other one-off patch jar files"
+If you have patches which were not handled in D), edit PatchScriptGen.java after the comment "// HERE: Add other one-off patch jar files"
 
 Just run PatchScriptGen in Eclipse.
 
@@ -75,7 +76,7 @@ Check bc-patch-apply.sh generated
 
 ~~~
 apply-work/target/business-central.war/
-apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/
+apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-RHBRMS-3095-eap6_4-redhat/
 ~~~
 
 # Only apply-work/target/business-central.war/ will be modified with the next step
@@ -85,10 +86,8 @@ apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/
 Confirm the updated (= patched) business-central.war has only a few intended differences against kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat
 
 ~~~
-$ diff -qr apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/ apply-work/target/business-central.war/ | grep -v "jar differ"
-Files apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/META-INF/MANIFEST.MF and apply-work/target/business-central.war/META-INF/MANIFEST.MF differ
-Only in apply-work/target/business-central.war/WEB-INF/lib: kie-wb-common-services-backend-6.5.0.Final-redhat-16-02029113-testpatch01.jar
-Only in apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-eap6_4-redhat/WEB-INF/lib: kie-wb-common-services-backend-6.5.0.Final-redhat-16.jar
+$ diff -qr apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-RHBRMS-3095-eap6_4-redhat/ apply-work/target/business-central.war/ | grep -v "jar differ"
+Files apply-work/patch/kie-drools-wb-6.5.0.Final-redhat-16-RHBRMS-3095-eap6_4-redhat/META-INF/MANIFEST.MF and apply-work/target/business-central.war/META-INF/MANIFEST.MF differ
 ~~~
 
 Well done!
